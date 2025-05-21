@@ -3,14 +3,14 @@ title: About
 layout: base.njk
 ---
 
-# About What To Eat With
+# About What to Wear With
 
-Welcome to **What To Eat With** — your daily guide to perfect food pairings.
+Welcome to **What to Wear With** — your daily source for outfit inspiration and style pairings.
 
-Whether you're wondering what to serve with salmon, chili, or cinnamon rolls, we use AI to bring you simple, tasty ideas based on real cooking knowledge and reader trends.
+Whether you’re wondering how to style red sneakers, a denim jacket, or a classic white tee, we use AI to bring you fresh, fashionable outfit ideas based on real style trends and what real people are searching for.
 
-This site is 100% automated and updated daily. It was created by a fellow food lover to help busy people make better meals with less guesswork.
+This site is 100% automated and updated every morning. It was created by a fellow style enthusiast to help you make confident wardrobe choices with less effort.
 
-Have a food you want us to cover? [Send it here.](https://tally.so/r/wakOD9)
+Have a clothing item you want us to feature? [Send it here.](https://tally.so/r/waoo0b)
 
-Thanks for stopping by!
+Thanks for visiting!
