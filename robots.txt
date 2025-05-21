@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://whattoeatwith.org/sitemap.xml
+Sitemap: https://whattowearwith.netlify.app/sitemap.xml
