@@ -30,11 +30,11 @@ module.exports = function (eleventyConfig) {
       console.log("✅ search.json generated");
 
       // ✅ Generate sitemap.xml dynamically
-      const homepage = "https://whattoeatwith.org";
+      const homepage = "https://whattowearwith.netlify.app";
       const pages = [
-        { loc: "/about/", lastmod: "2025-04-25", changefreq: "monthly", priority: 0.8 },
-        { loc: "/contact/", lastmod: "2025-04-25", changefreq: "monthly", priority: 0.8 },
-        { loc: "/privacy-policy/", lastmod: "2025-04-25", changefreq: "monthly", priority: 0.8 },
+        { loc: "/about/", lastmod: "2025-05-21", changefreq: "monthly", priority: 0.8 },
+        { loc: "/contact/", lastmod: "2025-05-21", changefreq: "monthly", priority: 0.8 },
+        { loc: "/privacy-policy/", lastmod: "2025-05-22", changefreq: "monthly", priority: 0.8 },
       ];
       const postsData = posts.map(post => ({
         loc: post.url,
