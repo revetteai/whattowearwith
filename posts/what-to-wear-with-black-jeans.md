@@ -2,6 +2,7 @@
 title: What to Wear With Black Jeans  
 description: Best outfits and style tips for Black Jeans.  
 date: 2025-05-22  
+layout: base.njk
 ---
 
 # What to Wear With Black Jeans
