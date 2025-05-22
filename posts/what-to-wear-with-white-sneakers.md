@@ -2,6 +2,7 @@
 title: What to Wear With White Sneakers
 description: Best outfits and style tips for White Sneakers.
 date: 2025-05-22
+layout: base.njk
 ---
 
 # What to Wear With White Sneakers
