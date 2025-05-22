@@ -2,6 +2,7 @@
 title: What to Wear With Red Dress  
 description: Best outfits and style tips for Red Dress.  
 date: 2025-05-22  
+layout: base.njk
 ---
 
 # What to Wear With Red Dress
