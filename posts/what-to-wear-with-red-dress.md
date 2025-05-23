@@ -5,8 +5,6 @@ date: 2025-05-22
 layout: base.njk
 ---
 
-# What to Wear With Red Dress
-
 Looking for a way to turn heads with a red dress? Discover what to wear with a red dress to elevate your style effortlessly.
 
 ## Outfit Ideas for Red Dress
