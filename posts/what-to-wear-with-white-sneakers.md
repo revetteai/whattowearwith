@@ -5,8 +5,6 @@ date: 2025-05-22
 layout: base.njk
 ---
 
-# What to Wear With White Sneakers
-
 Step up your style game this season by learning what to wear with White Sneakers. Ideal for their versatility, let's dive into how to style White Sneakers for any occasion!
 
 ## Outfit Ideas for White Sneakers
