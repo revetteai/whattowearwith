@@ -5,8 +5,6 @@ date: 2025-05-23
 layout: base.njk  
 ---
 
-# What to Wear With Navy Blazer
-
 Who says classic can't be captivating? Discover how to style a Navy Blazer with flair and sophistication for any occasion.
 
 ## Outfit Ideas for Navy Blazer
