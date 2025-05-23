@@ -25,8 +25,10 @@ Combine a Navy Blazer with khaki chinos and a striped shirt; this versatile look
 
 ## Frequently Asked Questions
 
-1. How do I choose the right fit for a Navy Blazer?  
+1. How do I choose the right fit for a Navy Blazer?
+   Look for a Navy Blazer that fits comfortably across your shoulders and chest, with sleeves ending just at your wrist bone for a tailored appearance.
 2. Can a Navy Blazer be worn year-round or is it seasonal?
+   A Navy Blazer is a timeless piece that can be styled for any season—just swap out layers and fabrics to match the weather.
 
 ## Where to Shop
 
