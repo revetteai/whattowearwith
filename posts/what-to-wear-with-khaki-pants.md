@@ -5,7 +5,6 @@ date: 2025-05-22
 layout: base.njk
 ---
 
-# What to Wear With Khaki Pants
 
 Unlock the potential of your wardrobe by knowing exactly what to wear with Khaki Pants! Dive into these versatile styling options that go from laid-back casual to smartly sophisticated with ease.
 
