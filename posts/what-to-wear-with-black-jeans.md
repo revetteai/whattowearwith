@@ -5,7 +5,6 @@ date: 2025-05-22
 layout: base.njk
 ---
 
-# What to Wear With Black Jeans
 
 Black jeans are the ultimate wardrobe essential, effortlessly transitioning from day to night and providing endless styling possibilities. In this guide, we’ll show you what to wear with Black Jeans, offering you the best outfits and style tips.
 
