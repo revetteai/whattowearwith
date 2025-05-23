@@ -5,8 +5,6 @@ date: 2025-05-22
 layout: base.njk  
 ---  
 
-# What to Wear With Leather Jacket  
-
 Looking to step up your fashion game with a leather jacket? Discover what to wear with Leather Jacket and become the style icon you aspire to be!  
 
 ## Outfit Ideas for Leather Jacket  
