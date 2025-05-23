@@ -5,7 +5,6 @@ date: 2025-05-22
 layout: base.njk
 ---
 
-# What to Wear With Denim Jacket
 
 Looking for inspiration on what to wear with a Denim Jacket? Dive into our guide for the best outfits that will help you master how to style a Denim Jacket effortlessly!
 
