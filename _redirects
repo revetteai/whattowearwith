@@ -1,0 +1,11 @@
+# Redirect all Netlify subdomain traffic to your custom domain
+https://whattowearwith.netlify.app/*    https://whattowearwith.com/:splat   301!
+
+# Pretty URLs for key pages (redirect no-slash to slash)
+# (Repeat for all static pages)
+ /about     /about/      301!
+ /contact   /contact/    301!
+ /privacy-policy  /privacy-policy/  301!
+
+
+
