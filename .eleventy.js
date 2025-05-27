@@ -30,7 +30,7 @@ module.exports = function (eleventyConfig) {
       console.log("✅ search.json generated");
 
       // ✅ Generate sitemap.xml dynamically
-      const homepage = "https://whattowearwith.netlify.app";
+      const homepage = "https://whattowearwith.com";
       const pages = [
         { loc: "/about/", lastmod: "2025-05-21", changefreq: "monthly", priority: 0.8 },
         { loc: "/contact/", lastmod: "2025-05-21", changefreq: "monthly", priority: 0.8 },
