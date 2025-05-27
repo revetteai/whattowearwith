@@ -5,7 +5,6 @@ description: Best outfits and style tips for Joggers.
 date: 2025-05-27
 layout: base.njk
 ---
-
 Unlock the secret to effortless style and comfort by mastering what to wear with Joggers. Discover the best outfits for Joggers, whether you're heading to the gym or a casual brunch.
 
 ## Outfit Ideas for Joggers
