@@ -1,8 +1,9 @@
+---
 title: What to Wear With Chelsea Boots  
 description: Best outfits and style tips for Chelsea Boots.  
 date: 2025-05-30  
-layout: base.njk  
-
+layout: base.njk 
+---
 Whether you're dressing for a casual outing or an elegant event, Chelsea Boots are the go-to footwear that can elevate any look. Wondering what to wear with Chelsea Boots? You're in luck! These stylish boots are versatile, comfortable, and always in vogue. Let’s dive into some fabulous Chelsea Boots outfit ideas that'll keep you looking chic from head to toe.
 
 ## Outfit Ideas for Chelsea Boots
