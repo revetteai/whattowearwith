@@ -1,7 +1,9 @@
+---
 title: What to Wear With Plaid Shirt  
 description: Best outfits and style tips for Plaid Shirt.  
 date: 2025-06-02  
-layout: base.njk  
+layout: base.njk
+---
 
 Looking for ways to elevate your wardrobe with a versatile piece? Wondering what to wear with a plaid shirt to truly make a fashion statement? Whether you’re aiming for a laid-back, casual vibe or seeking something a bit more polished, plaid shirts are a wardrobe staple that can be styled in countless ways. Discover the best outfits for plaid shirt ensembles, and reinvigorate your closet with our stylish Plaid Shirt outfit ideas. Let’s dive into how to style plaid shirt like a fashion pro!  
 
