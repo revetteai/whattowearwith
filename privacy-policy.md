@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 layout: base.njk
+permalink: /privacy-policy/
 ---
 
 # Privacy Policy
