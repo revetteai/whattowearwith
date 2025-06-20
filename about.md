@@ -2,7 +2,6 @@
 title: About
 layout: base.njk
 permalink: /about/
-<link rel="canonical" href="https://whattowearwith.com/about/" />
 ---
 
 # About What to Wear With
