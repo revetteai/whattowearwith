@@ -3,7 +3,7 @@ title: What to Wear With Sweater Vest
 description: Best outfits and style tips for Sweater Vest.
 date: 2025-06-10
 layout: base.njk
---
+---
 
 Ever looked at a sweater vest and wondered how to make it part of your wardrobe? You're not alone! The sweater vest is one of those timeless pieces making quite a comeback, and with good reason. Known for its versatility, it's quickly becoming a staple in both men's and women's fashion. Plus, it's the perfect layering piece for transitional weather! So, let's dive into what to wear with a sweater vest and transform your style.
 
